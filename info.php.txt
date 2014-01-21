@@ -1,0 +1,4 @@
+<?php
+phpinfo();
+echo "Lab11 Example";
+?>
